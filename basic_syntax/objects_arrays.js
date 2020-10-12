@@ -2,7 +2,6 @@
 
 console.log("Something");
 function my_func(){
-  document.write('JavaScript Essentials');
   console.log('O');
 };
 my_func();
