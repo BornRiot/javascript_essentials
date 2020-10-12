@@ -1,0 +1,5 @@
+car.speed *+= 3; 
+VM417:1 Uncaught SyntaxError: Unexpected token '+='
+car.speed *= 2;
+
+400

@@ -1,0 +1,4 @@
+car.model = "V60";
+"V60"
+car
+{make: "Volvo", color: "red", speed: 200, engine: {…}, drive: ƒ, …}color: "red"drive: ƒ ()engine: {size: 2, make: "BMW", fuel: "petrol", pistons: Array(2)}make: "Volvo"model: "V60"speed: 200__proto__: Object
