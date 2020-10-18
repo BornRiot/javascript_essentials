@@ -6,7 +6,7 @@
 
 console.log(myName, printName());
 
-var myName = "Marvin";
+var myName = "Jane Doe";
 function printName(){
   return "John Doe";
 }
